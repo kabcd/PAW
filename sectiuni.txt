@@ -1,6 +1,0 @@
-﻿1000
-Sectiune01
-2000
-Sectiune02
-3000
-Sectiune03
